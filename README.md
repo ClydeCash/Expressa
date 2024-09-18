@@ -18,5 +18,5 @@ or
 
 ````bash
 git clone https://github.com/ClydeCash/Expressa
-sudo cp -r Expressa ~/.local/share/fonts
+cp -r Expressa ~/.local/share/fonts
 ````
